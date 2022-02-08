@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Tanveer</h1>
+<h1>👋 Hi, I'm Tanveer</h1>
 
 
 <h3 align="left">Languages and Tools:</h3>
