@@ -11,6 +11,7 @@
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 </p>
+<h4 align="left">Personal Reminder:</h4>
 <p align="left"> 
 হে আল্লাহ, আমি আমার সমস্ত বিষয়, আমি আমার হৃদয়, আমার স্বাস্থ্য, আমার ভবিষ্যৎ, আমার জিবিকা, আমার সাফল্য, আমার সমাপ্তি, আমার দ্বীন তোমার উপর নির্ভর করেছি। হে আল্লাহ তুমি যা ভালোবাসো এবং যা গ্রহন করো তা আমাকে দান করো।  
  </p>
