@@ -3,8 +3,7 @@
 <h2> Reach Me: </h2>
 <ul>
 <li> Linkedin: https://www.linkedin.com/in/tanveerkader/ </li>
-<li> Email: <a href="mailto:tanveerkader4@gmail.com">tanveerkader4@gmail.com</a> </li>
 <li> Google Scolar: <a href="https://scholar.google.com/citations?user=GIAwRq4AAAAJ&hl=en"> tanveerkader </a> </li>
-<li> Google Scolar: https://scholar.google.com/citations?user=GIAwRq4AAAAJ&hl=en </li>
+<li> Email: <a href="mailto:tanveerkader4@gmail.com">tanveerkader4@gmail.com</a> </li>
 <li> Website: https://portfolio-tanveerkader.vercel.app/ </li>
 </ul>
