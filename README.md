@@ -2,7 +2,7 @@
 
 ### Thanks for your valuable time visiting my profile.
 
-I am working on [ml-projects-py](https://github.com/tanveer-kader/ml-projects-py)
+⚒️ I am working on [ml-projects-py](https://github.com/tanveer-kader/ml-projects-py)
 
 ## Reach me:
 
