@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Tanveer
 
-### Thanks for your valuable time visiting my profile.
+### Thank you for taking the time to visit my profile.
 
 ⚒️ I am working on [ml-projects-py](https://github.com/tanveer-kader/ml-projects-py)
 
