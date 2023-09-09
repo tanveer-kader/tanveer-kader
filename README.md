@@ -6,7 +6,7 @@
 
 ## Reach me:
 
-- Linkedin: https://www.linkedin.com/in/tanveerkader/
 - Google Scholar: [tanveerkader](https://scholar.google.com/citations?user=GIAwRq4AAAAJ&hl=en)
 - Email: tanveerkader4@gmail.com
+- Linkedin: https://www.linkedin.com/in/tanveerkader/
 - Website: https://portfolio-tanveerkader.vercel.app/
