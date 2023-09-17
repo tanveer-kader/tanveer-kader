@@ -13,4 +13,4 @@
 
 ## My CV/Resume:
 
-- View[tanveerkadercv]("Tanveer_kader.pdf")
+- [Open](https://github.com/tanveer-kader/tanveer-kader/blob/main/Tanveer_Kader.pdf)
