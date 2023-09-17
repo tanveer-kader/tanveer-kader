@@ -8,5 +8,5 @@
 
 - Google Scholar: [tanveerkader](https://scholar.google.com/citations?user=GIAwRq4AAAAJ&hl=en)
 - Email: tanveerkader4@gmail.com
-- Linkedin: linkedin.com/in/tanveerkader/
-- Website: tanveerkader.vercel.app/
+- Linkedin: https://www.linkedin.com/in/tanveerkader
+- Website: https://tanveerkader.vercel.app
