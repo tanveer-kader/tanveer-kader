@@ -14,4 +14,3 @@
 ## My CV/Resume:
 
 - [Click to open](https://github.com/tanveer-kader/tanveer-kader/blob/main/Tanveer_Kader.pdf)
-- [Download](https://raw.githubusercontent.com/tanveer-kader/tanveer-kader/blob/main/Tanveer_Kader.pdf)
