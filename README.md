@@ -10,3 +10,7 @@
 - Email: tanveerkader4@gmail.com
 - Linkedin: https://www.linkedin.com/in/tanveerkader
 - Website: https://tanveerkader.vercel.app
+
+## My CV/Resume:
+
+- View[tanveerkadercv]("Tanveer_kader.pdf")
