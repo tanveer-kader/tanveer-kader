@@ -1,8 +1,8 @@
 ## 👋 Hi, I'm Tanveer
 
-**Thank you for visiting my profile.** 🫡
+**Thank you for visiting my profile.** 
 
-😎 about me  
+💪 about me  
 - I perform experiments and write scholarly articles
 
 🛠️ i work on
