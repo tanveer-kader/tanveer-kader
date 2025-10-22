@@ -12,6 +12,6 @@
 
 ✍️ find me  
 - [linkedin](https://www.linkedin.com/in/tanveerkader/)
-- [Scopus Author](https://www.scopus.com/authid/detail.uri?authorId=58288544400)
+- [scopus author](https://www.scopus.com/authid/detail.uri?authorId=58288544400)
 - [google scholar](https://scholar.google.com/citations?user=GIAwRq4AAAAJ&hl=en)
 
