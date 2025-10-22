@@ -11,6 +11,5 @@ Graduate Research Assistant, Computer Vision
 - Back-End Development
 
 ✍️ find me  
-[linkedin](https://www.linkedin.com/in/tanveerkader/)  
-[google scholar](https://scholar.google.com/citations?user=GIAwRq4AAAAJ&hl=en)  
-[website](https://tanveerkader.vercel.app/)  
+- [linkedin](https://www.linkedin.com/in/tanveerkader/)  
+- [google scholar](https://scholar.google.com/citations?user=GIAwRq4AAAAJ&hl=en)  
