@@ -3,7 +3,6 @@
 **Thank you for visiting my profile.** 🫡
 
 😎 about me  
-- Graduate Research Assistant, Computer Vision  
 - I perform experiments and write scholarly articles
 
 🛠️ i work on
