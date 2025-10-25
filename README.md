@@ -15,4 +15,5 @@
 - [linkedin](https://www.linkedin.com/in/tanveerkader/)
 - [scopus author](https://www.scopus.com/authid/detail.uri?authorId=58288544400)
 - [google scholar](https://scholar.google.com/citations?user=GIAwRq4AAAAJ&hl=en)
+- [orcid](https://orcid.org/0009-0008-6481-5598)
 
