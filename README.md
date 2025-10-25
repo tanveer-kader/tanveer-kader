@@ -4,7 +4,7 @@
 - ***I perform experiments and write scholarly articles***
 
 🛠️ i work on
-- Video Processing, 3D Image Processing
+- Visual Tracking Systems, Video Processing, 3D Image Processing
 - Natural Language Processing
 - Back-End Development
 
