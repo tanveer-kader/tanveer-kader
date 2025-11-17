@@ -2,6 +2,7 @@
 
 💪 about me  
 - ***I perform experiments and write scholarly articles***
+- one day i'll present my work at ***CVPR/ICCV/ECCV***
 
 🛠️ i work on
 - Visual Tracking Systems, Video Processing, 3D Image Processing
