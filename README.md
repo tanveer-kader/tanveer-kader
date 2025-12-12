@@ -5,7 +5,8 @@
 - one day i'll present my work at ***CVPR/ICCV/ECCV***
 
 🛠️ i work on
-- Visual Tracking Systems, Video Processing, 3D Image Processing
+- Visual Tracking Systems, Video Processing
+- 3D Image Processing, CloudCompare
 - Natural Language Processing
 - Back-End Development
 
