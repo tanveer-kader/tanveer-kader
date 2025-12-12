@@ -6,7 +6,7 @@
 
 🛠️ i work on
 - Visual Tracking Systems, Video Processing
-- 3D Image Processing, CloudCompare
+- 3D Image Processing, Depth Images, PointClouds, CloudCompare
 - Natural Language Processing
 - Back-End Development
 
